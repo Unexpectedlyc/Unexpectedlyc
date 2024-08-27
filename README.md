@@ -1,8 +1,10 @@
 ## Hi there 👋
 ## Abstract
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc&layout=compact)
+
 ![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=unexpectedly&cn=true&theme=dark)
 
 
