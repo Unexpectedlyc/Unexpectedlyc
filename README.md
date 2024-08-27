@@ -7,8 +7,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
-![Leetcode Stats](https://leetcard.jacoblin.cool/unexpectedly/lapor?ext=heatmap&theme=nord)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/unexpectedly)](https://leetcode.com/unexpectedly)
+
 
 <!--
 **Unexpectedlyc/Unexpectedlyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
