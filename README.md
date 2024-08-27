@@ -1,10 +1,7 @@
 ## Hi there 👋
 ## Abstract
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&hide_border=true" alt="Unexpectedlyc's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc&layout=compact&hide_border=true&langs_count=10" alt="Unexpectedlyc's Top Langs" width="37%" /> 
-</p>
 
+![Unexpectedlyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000)
 ![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=unexpectedly&cn=true&theme=dark)
 
 
