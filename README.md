@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/unexpectedly)](https://leetcode.com/unexpectedly)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/unexpectedly)
 
 <!--
 **Unexpectedlyc/Unexpectedlyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
