@@ -13,7 +13,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc)
 
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=unexpectedlyc&cn=true&theme=dark)
 
 
 <!--
