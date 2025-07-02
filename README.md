@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.baidu.com/" target="_blank">
+  <a href="https://github.com/Unexpectedlyc/Unexpectedlyc/blob/main/wechatQRcode.jpg?raw=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=Contact%20Me&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="wechat logo"  />
   </a>
   <a href="https://www.baidu.com/" target="_blank">
