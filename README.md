@@ -10,17 +10,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000" 
-    style="width: 100%; max-width: 450px; height: auto;" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc" 
-    style="width: 100%; max-width: 450px; height: auto;" 
-    alt="Top Languages"
-  />
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000" style="height: 200px;width: 300px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc" style="height: 200px;width: 300px" />
 </div>
 
 
