@@ -55,7 +55,7 @@
   <a href="https://github.com/Unexpectedlyc/Unexpectedlyc/blob/main/wechatQRcode.jpg?raw=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=Contact%20Me&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="wechat logo"  />
   </a>
-  <a href="https://www.baidu.com/" target="_blank">
+  <a href="mailto:yanchang97cugb@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Contact%20Me&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
