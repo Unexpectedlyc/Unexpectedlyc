@@ -10,8 +10,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000" height="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc" height="200" />
+</p>
 
 
 
