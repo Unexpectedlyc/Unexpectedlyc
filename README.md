@@ -10,9 +10,35 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000" style="height: 200px;width: 300px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc" style="height: 200px;width: 300px" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Unexpectedlyc&show_icons=true&bg_color=00000000" 
+    style="
+      width: 100%;
+      max-width: 450px;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      transition: transform 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.02)';"
+    onmouseout="this.style.transform='scale(1)';"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unexpectedlyc" 
+    style="
+      width: 100%;
+      max-width: 450px;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      transition: transform 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.02)';"
+    onmouseout="this.style.transform='scale(1)';"
+    alt="Top Languages"
+  />
 </div>
 
 
