@@ -57,3 +57,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contact Me
+
+If you have any questions or would like to connect, feel free to reach out via WeChat:
+
+- **WeChat**:  
+  ![WeChat QR Code](https://your-qr-code-image-url.png)  
+  
+  Or search my WeChat ID: `Unexpectedlyc`
