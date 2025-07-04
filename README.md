@@ -10,6 +10,12 @@
 - ⚡ Fun fact: ...
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Unexpectedlyc.Unexpectedlyc&left_color=blue&right_color=gold"  />
+</div>
+
+###
+
 ## 💻 Tech Stack & Tools
 
 <div align="center">
