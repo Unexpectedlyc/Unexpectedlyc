@@ -1,5 +1,13 @@
 <h1 align="center">Hey 👋, 𝗜'𝗺 Unexpectedlyc/Unexpectedlyc</h1>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Unexpectedlyc.Unexpectedlyc&left_color=blue&right_color=gold"  />
+</div>
+
+###
+
 ## Abstract
 - 🔭 I’m currently working on wuhan
 - 🌱 I’m currently learning llm
@@ -8,12 +16,6 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Unexpectedlyc.Unexpectedlyc&left_color=blue&right_color=gold"  />
-</div>
-
 ###
 
 ## 💻 Tech Stack & Tools
