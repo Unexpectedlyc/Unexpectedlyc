@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, 𝗜'𝗺 Unexpectedlyc/Unexpectedlyc</h1>
+<h1 align="center">Hey 👋, 𝗜'𝗺 Unexpectedlyc</h1>
 
 ###
 
